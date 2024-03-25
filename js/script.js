@@ -311,6 +311,7 @@ function init() {
             displaySlider();
             break;
         case '/shows.html':
+        case 'shows':
             console.log('shows');
             displayPopularShows();
             break;
