@@ -48,7 +48,7 @@ async function search() {
   if (global.search.term !== '' && global.search.term !== null) {
     
   } else{
-    alert('enter a title')
+    alert('enter a title');
   }
 
 
