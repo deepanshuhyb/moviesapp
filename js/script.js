@@ -258,7 +258,7 @@ function hidespinner(){
 async function fetchApi(endpoint) {
     const API_KEY = '6c1a2240bbeb7f139779642257b534e2';
 
-    const API_URL = 'http://api.themoviedb.org/3/';
+    const API_URL = 'https://api.themoviedb.org/3/';
 
     showspinner();
 
